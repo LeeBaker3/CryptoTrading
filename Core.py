@@ -1,8 +1,9 @@
 import numpy as np
 import pandas as pd
 import tensorflow as tf
+from LoadSettings import LoadSetting as ld
 
 #Load applications settings
-def loadSettings(self, parameter_list):
-    settings = dict()
-    return settings
+
+s = ld()
+settings = s.get_Settings()
