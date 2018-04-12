@@ -9,4 +9,4 @@ from loadsettings import LoadSetting as ld
 # Application settings definition xxxxxx 
 s = ld()
 settings = s.get_Settings()
-print('Mode: ', settings['MODE'])
+print('Mode: ', settings['STATE']['mode'])
