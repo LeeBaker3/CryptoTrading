@@ -1,6 +1,6 @@
-'''[Summary]
-Genreate Application settings.ini file
-'''
+"""[Summary]
+Generate application settings.ini file
+"""
 
 import configparser as cp
 # configparser documentation https://docs.python.org/3/library/configparser.html
