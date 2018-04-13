@@ -8,5 +8,5 @@ from loadsettings import LoadSetting as ld
 # Variable 'settings' is dictonary that holds applications settings
 # Application settings definition xxxxxx 
 s = ld()
-settings = s.get_Settings()
+settings = s.getSettings()
 print('Mode: ', settings['STATE']['mode'])

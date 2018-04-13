@@ -1,16 +1,27 @@
+"""[Summary]
+Reads the application settings from .ini file. Converts it to a dictonary object
+and returns the dictonary to the calling object.
+"""
+
 class LoadSetting(object):
 
-    import json
     import configparser as cp
+    # configparser documentation https://docs.python.org/3/library/configparser.html
 
     def __init__(self, settings = None):
         self.settings = settings
 
-    def as_dict(self, config):
+    def asDict(self, config):
+        """[summary]
+        Converts a ConfigParser object into a dictionary.
     
-    #Converts a ConfigParser object into a dictionary.
-    #The resulting dictionary has sections as keys which point to a dict of the
-    #sections options as key => value pairs.
+        Arguments:
+            config {[configparser object]} -- 
+    
+        Returns:
+            [dictionary object] -- [The resulting dictionary has sections as 
+            keys which point to a dict of the sections options as key => value pairs.]
+        """
 
         the_dict = {}
         for section in config.sections():
@@ -18,15 +29,25 @@ class LoadSetting(object):
             for key, val in config.items(section):
                 the_dict[section][key] = val
         return the_dict 
-    
-    def get_Settings(self):
 
-        #with open("settings.json") as json_file:
-             #self.settings = self.json.load(json_file)
-
+    def getSettings(self):
+        """[summary]
+        Returns a dictonary of the application settings from the settings.ini file
+        
+        Returns:
+            [dictionary object] -- [The resulting dictionary has sections as 
+            keys which point to a dict of the sections options as key => value pairs.]
+        """
         config = self.cp.ConfigParser()
-        config.read('settings.ini')
 
-        self.settings = self.as_dict(config)
+        try:
+            config.read('settings.ini')
+            self.settings = self.asDict(config)
+
+        except IOError as err:
+            print ("Error: Can't find settings file or read data\n{0}".format(err))
+
+        else:
+            print ("Application settings loaded")
 
         return self.settings
