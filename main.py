@@ -1,12 +1,12 @@
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-from loadsettings import LoadSetting as ld
+from loadconfig import LoadConfig as lc
 
 # Load applications settings
-# Vadriable 's' is a LoadSetting object
-# Variable 'settings' is dictonary that holds applications settings
+# Variable 'c' is a LoadSetting object
+# Variable 'settings' is dictionary that holds applications settings
 # Application settings definition xxxxxx 
-s = ld()
-settings = s.getSettings()
+c = lc()
+settings = c.getConfig()
 print('Mode: ', settings['STATE']['mode'])

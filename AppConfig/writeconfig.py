@@ -1,5 +1,5 @@
 """[Summary]
-Generate application settings.ini file
+Generate application config.ini file
 """
 
 import configparser as cp
@@ -15,5 +15,5 @@ config.set('STATE', ' # Training = Used to training the machine learning model.'
 config.set('STATE', ' # Testing = Used to test the application.')
 config.set('STATE', ' # Production = Used to run the application.')
 
-with open('settings.ini', 'w') as configfile:
+with open('config.ini', 'w') as configfile:
     config.write(configfile)

@@ -1,9 +1,9 @@
 """[Summary]
-Reads the application settings from .ini file. Converts it to a dictonary object
-and returns the dictonary to the calling object.
+Reads the application settings from .ini file. Converts it to a dictionary object
+and returns the dictionary to the calling object.
 """
 
-class LoadSetting(object):
+class LoadConfig(object):
 
     import configparser as cp
     # configparser documentation https://docs.python.org/3/library/configparser.html
@@ -30,9 +30,9 @@ class LoadSetting(object):
                 the_dict[section][key] = val
         return the_dict 
 
-    def getSettings(self):
+    def getConfig(self):
         """[summary]
-        Returns a dictonary of the application settings from the settings.ini file
+        Returns a dictionary of the application settings from the settings.ini file
         
         Returns:
             [dictionary object] -- [The resulting dictionary has sections as 
@@ -41,7 +41,7 @@ class LoadSetting(object):
         config = self.cp.ConfigParser()
 
         try:
-            config.read('settings.ini')
+            config.read('AppConfig/config.ini')
             self.settings = self.asDict(config)
 
         except IOError as err:
