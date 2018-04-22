@@ -11,7 +11,7 @@ class LoadConfig(object):
     def __init__(self, settings = None):
         self.settings = settings
 
-    def asDict(self, config):
+    def as_dict(self, config):
         """[summary]
         Converts a ConfigParser object into a dictionary.
     
@@ -30,7 +30,7 @@ class LoadConfig(object):
                 the_dict[section][key] = val
         return the_dict 
 
-    def getConfig(self):
+    def get_config(self):
         """[summary]
         Returns a dictionary of the application settings from the settings.ini file
         
@@ -42,12 +42,10 @@ class LoadConfig(object):
 
         try:
             config.read('AppConfig/config.ini')
-            self.settings = self.asDict(config)
+            self.settings = self.as_dict(config)
+            print ("Application settings loaded")
 
         except IOError as err:
-            print ("Error: Can't find settings file or read data\n{0}".format(err))
-
-        else:
-            print ("Application settings loaded")
+            print ("Error: Can't find settings file or read data\n{}".format(err))
 
         return self.settings

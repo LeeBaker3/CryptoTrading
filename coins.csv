@@ -1,0 +1,101 @@
+﻿coin,coin_name,coin_symbol
+bitcoin,Bitcoin,BTC
+ethereum,Ethereum,ETH
+ripple,Ripple,XRP
+bitcoin-cash,Bitcoin Cash,BCH
+litecoin,Litecoin,LTC
+cardano,Cardano,ADA
+neo,NEO,NEO
+stellar,Stellar,XLM
+eos,EOS,EOS
+iota,IOTA,MIOTA
+dash,Dash,DASH
+nem,NEM,XEM
+monero,Monero,XMR
+lisk,Lisk,LSK
+tron,TRON,TRX
+ethereum-classic,Ethereum Classic,ETC
+vechain,VeChain,VEN
+qtum,Qtum,QTUM
+bitcoin-gold,Bitcoin Gold,BTG
+tether,Tether,USDT
+icon,ICON,ICX
+omisego,OmiseGO,OMG
+zcash,Zcash,ZEC
+nano,Nano,NANO
+verge,Verge,XVG
+binance-coin,Binance Coin,BNB
+steem,Steem,STEEM
+bytecoin-bcn,Bytecoin,BCN
+populous,Populous,PPT
+siacoin,Siacoin,SC
+stratis,Stratis,STRAT
+ucash,U.CASH,UCASH
+rchain,RChain,RHOC
+status,Status,SNT
+dogecoin,Dogecoin,DOGE
+waves,Waves,WAVES
+bitshares,BitShares,BTS
+maker,Maker,MKR
+revain,Revain,R
+digixdao,DigixDAO,DGD
+augur,Augur,REP
+waltonchain,Waltonchain,WTC
+decred,Decred,DCR
+0x,0x,ZRX
+aeternity,Aeternity,AE
+zclassic,ZClassic,ZCL
+veritaseum,Veritaseum,VERI
+hshare,Hshare,HSR
+komodo,Komodo,KMD
+electroneum,Electroneum,ETN
+kucoin-shares,KuCoin Shares,KCS
+ardor,Ardor,ARDR
+ark,Ark,ARK
+byteball,Byteball Bytes,GBYTE
+digibyte,DigiByte,DGB
+dragonchain,Dragonchain,DRGN
+gas,Gas,GAS
+basic-attention-token,Basic Attention Token,BAT
+zilliqa,Zilliqa,ZIL
+loopring,Loopring,LRC
+bytom,Bytom,BTM
+golem-network-tokens,Golem,GNT
+monacoin,MonaCoin,MONA
+syscoin,Syscoin,SYS
+kyber-network,Kyber Network,KNC
+aelf,aelf,ELF
+qash,QASH,QASH
+pivx,PIVX,PIVX
+bitcore,Bitcore,BTX
+cryptonex,Cryptonex,CNX
+dentacoin,Dentacoin,DCN
+iostoken,IOStoken,IOST
+nebulas-token,Nebulas,NAS
+ethos,Ethos,ETHOS
+aion,Aion,AION
+factom,Factom,FCT
+power-ledger,Power Ledger,POWR
+gxshares,GXShares,GXS
+pillar,Pillar,PLR
+polymath-network,Polymath,POLY
+zcoin,ZCoin,XZC
+funfair,FunFair,FUN
+salt,SALT,SALT
+dent,Dent,DENT
+cindicator,Cindicator,CND
+nxt,Nxt,NXT
+kin,Kin,KIN
+enigma-project,Enigma,ENG
+particl,Particl,PART
+reddcoin,ReddCoin,RDD
+chainlink,ChainLink,LINK
+bancor,Bancor,BNT
+maidsafecoin,MaidSafeCoin,MAID
+neblio,Neblio,NEBL
+tenx,TenX,PAY
+request-network,Request Network,REQ
+blocknet,Blocknet,BLOCK
+smartcash,SmartCash,SMART
+quantstamp,Quantstamp,QSP
+wax,WAX,WAX
