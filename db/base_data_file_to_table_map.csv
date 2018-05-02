@@ -1,0 +1,6 @@
+﻿csv_file,database_table
+coins.csv,Coins_tbl
+sources.csv,Sources_tbl
+periods.csv,Periods_tbl
+source_types.csv,Source_types_tbl
+price_actions.csv,Price_actions_tbl

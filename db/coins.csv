@@ -1,0 +1,1001 @@
+﻿coin,coin_name,coin_symbol
+bitcoin,Bitcoin,BTC
+ethereum,Ethereum,ETH
+ripple,Ripple,XRP
+bitcoin-cash,Bitcoin Cash,BCH
+eos,EOS,EOS
+litecoin,Litecoin,LTC
+cardano,Cardano,ADA
+stellar,Stellar,XLM
+iota,IOTA,MIOTA
+neo,NEO,NEO
+monero,Monero,XMR
+dash,Dash,DASH
+tron,TRON,TRX
+nem,NEM,XEM
+tether,Tether,USDT
+ethereum-classic,Ethereum Classic,ETC
+vechain,VeChain,VEN
+qtum,Qtum,QTUM
+omisego,OmiseGO,OMG
+binance-coin,Binance Coin,BNB
+icon,ICON,ICX
+bitcoin-gold,Bitcoin Gold,BTG
+lisk,Lisk,LSK
+bitcoin-private,Bitcoin Private,BTCP
+zcash,Zcash,ZEC
+bytom,Bytom,BTM
+nano,Nano,NANO
+verge,Verge,XVG
+bytecoin-bcn,Bytecoin,BCN
+populous,Populous,PPT
+steem,Steem,STEEM
+bitshares,BitShares,BTS
+wanchain,Wanchain,WAN
+siacoin,Siacoin,SC
+bitcoin-diamond,Bitcoin Diamond,BCD
+zilliqa,Zilliqa,ZIL
+dogecoin,Dogecoin,DOGE
+stratis,Stratis,STRAT
+maker,Maker,MKR
+digixdao,DigixDAO,DGD
+aeternity,Aeternity,AE
+waves,Waves,WAVES
+status,Status,SNT
+0x,0x,ZRX
+aion,Aion,AION
+rchain,RChain,RHOC
+golem-network-tokens,Golem,GNT
+ontology,Ontology,ONT
+augur,Augur,REP
+decred,Decred,DCR
+loopring,Loopring,LRC
+basic-attention-token,Basic Attention Token,BAT
+waltonchain,Waltonchain,WTC
+iostoken,IOStoken,IOST
+komodo,Komodo,KMD
+mixin,Mixin,XIN
+ardor,Ardor,ARDR
+hshare,Hshare,HSR
+kucoin-shares,KuCoin Shares,KCS
+digibyte,DigiByte,DGB
+ark,Ark,ARK
+centrality,Centrality,CENNZ
+pivx,PIVX,PIVX
+dragonchain,Dragonchain,DRGN
+mithril,Mithril,MITH
+gas,Gas,GAS
+aelf,aelf,ELF
+cryptonex,Cryptonex,CNX
+dentacoin,Dentacoin,DCN
+substratum,Substratum,SUB
+syscoin,Syscoin,SYS
+qash,QASH,QASH
+factom,Factom,FCT
+pundi-x,Pundi X,NPXS
+kyber-network,Kyber Network,KNC
+veritaseum,Veritaseum,VERI
+ethos,Ethos,ETHOS
+monacoin,MonaCoin,MONA
+funfair,FunFair,FUN
+storm,Storm,STORM
+elastos,Elastos,ELA
+nebulas-token,Nebulas,NAS
+bancor,Bancor,BNT
+reddcoin,ReddCoin,RDD
+gxchain,GXChain,GXS
+wax,WAX,WAX
+zcoin,ZCoin,XZC
+revain,Revain,R
+salt,SALT,SALT
+nxt,Nxt,NXT
+kin,Kin,KIN
+monaco,Monaco,MCO
+power-ledger,Power Ledger,POWR
+enigma-project,Enigma,ENG
+byteball,Byteball Bytes,GBYTE
+tenx,TenX,PAY
+chainlink,ChainLink,LINK
+nucleus-vision,Nucleus Vision,NCASH
+maidsafecoin,MaidSafeCoin,MAID
+neblio,Neblio,NEBL
+smartcash,SmartCash,SMART
+request-network,Request Network,REQ
+storj,Storj,STORJ
+electroneum,Electroneum,ETN
+cindicator,Cindicator,CND
+skycoin,Skycoin,SKY
+achain,Achain,ACT
+decentraland,Decentraland,MANA
+fusion,Fusion,FSN
+matrix-ai-network,Matrix AI Network,MAN
+iconomi,Iconomi,ICN
+particl,Particl,PART
+smartmesh,SmartMesh,SMT
+emercoin,Emercoin,EMC
+civic,Civic,CVC
+deepbrain-chain,DeepBrain Chain,DBC
+cortex,Cortex,CTXC
+dent,Dent,DENT
+loom-network,Loom Network,LOOM
+nexus,Nexus,NXS
+boscoin,BOScoin,BOS
+zencash,ZenCash,ZEN
+tokenpay,TokenPay,TPAY
+bitcore,Bitcore,BTX
+quantstamp,Quantstamp,QSP
+nuls,Nuls,NULS
+polymath-network,Polymath,POLY
+poet,Po.et,POE
+santiment,Santiment Network Token,SAN
+gifto,Gifto,GTO
+paypex,Paypex,PAYX
+gnosis-gno,Gnosis,GNO
+poa-network,POA Network,POA
+singularitynet,SingularityNET,AGI
+rlc,iExec RLC,RLC
+gamecredits,GameCredits,GAME
+vertcoin,Vertcoin,VTC
+time-new-bank,Time New Bank,TNB
+metal,Metal,MTL
+arcblock,Arcblock,ABT
+bitcoindark,BitcoinDark,BTCD
+enjin-coin,Enjin Coin,ENJ
+high-performance-blockchain,High Performance Blockchain,HPB
+aragon,Aragon,ANT
+paypie,PayPie,PPP
+game,Game.com,GTC
+groestlcoin,Groestlcoin,GRS
+raiden-network-token,Raiden Network Token,RDN
+cybermiles,CyberMiles,CMT
+dynamic-trading-rights,Dynamic Trading Rights,DTR
+blocknet,Blocknet,BLOCK
+ubiq,Ubiq,UBQ
+genaro-network,Genaro Network,GNX
+data,DATA,DTA
+greencoin,Greencoin,GRE
+credits,Credits,CS
+dew,DEW,DEW
+digitalnote,DigitalNote,XDN
+cube,Cube,AUTO
+medibloc,MediBloc,MED
+litecoin-cash,Litecoin Cash,LCC
+bluzelle,Bluzelle,BLZ
+blockv,BLOCKv,VEE
+red-pulse,Red Pulse,RPX
+theta-token,Theta Token,THETA
+sophiatx,SophiaTX,SPHTX
+ruff,Ruff,RUFF
+nav-coin,NavCoin,NAV
+sirin-labs-token,SIRIN LABS Token,SRN
+amber,Ambrosus,AMB
+genesis-vision,Genesis Vision,GVT
+apex,Apex,CPX
+ignis,Ignis,IGNIS
+airswap,AirSwap,AST
+thekey,THEKEY,TKY
+ethlend,ETHLend,LEND
+pillar,Pillar,PLR
+scryinfo,Scry.info,DDD
+streamr-datacoin,Streamr DATAcoin,DATA
+ost,OST,OST
+sonm,SONM,SNM
+bitbay,BitBay,BAY
+iot-chain,IoT Chain,ITC
+ink,Ink,INK
+ripio-credit-network,Ripio Credit Network,RCN
+bibox-token,Bibox Token,BIX
+adx-net,AdEx,ADX
+cloakcoin,CloakCoin,CLOAK
+crypterium,Crypterium,CRPT
+dropil,Dropil,DROP
+einsteinium,Einsteinium,EMC2
+minexcoin,MinexCoin,MNX
+telcoin,Telcoin,TEL
+internet-node-token,Internet Node Token,INT
+eidoo,Eidoo,EDO
+c20,CRYPTO20,C20
+quantum-resistant-ledger,Quantum Resistant Ledger,QRL
+iht-real-estate-protocol,IHT Real Estate Protocol,IHT
+peercoin,Peercoin,PPC
+oyster,Oyster,PRL
+ion,ION,ION
+district0x,district0x,DNT
+wepower,WePower,WPR
+salus,SaluS,SLS
+singulardtv,SingularDTV,SNGLS
+wabi,WaBi,WABI
+vibe,VIBE,VIBE
+edgeless,Edgeless,EDG
+appcoins,AppCoins,APPC
+pura,Pura,PURA
+medishares,MediShares,MDS
+viacoin,Viacoin,VIA
+utrust,UTRUST,UTK
+bread,Bread,BRD
+wings,Wings,WINGS
+counterparty,Counterparty,XCP
+tomochain,TomoChain,TOMO
+ins-ecosystem,INS Ecosystem,INS
+spankchain,SpankChain,SPANK
+triggers,Triggers,TRIG
+envion,Envion,EVN
+zclassic,ZClassic,ZCL
+asch,Asch,XAS
+modum,Modum,MOD
+tierion,Tierion,TNT
+mobius,Mobius,MOBI
+feathercoin,Feathercoin,FTC
+library-credit,LBRY Credits,LBC
+origintrail,OriginTrail,TRAC
+bottos,Bottos,BTO
+burst,Burst,BURST
+wagerr,Wagerr,WGR
+taas,TaaS,TAAS
+jibrel-network,Jibrel Network,JNT
+gulden,Gulden,NLG
+etherparty,Etherparty,FUEL
+odyssey,Odyssey,OCN
+qlink,QLINK,QLC
+bridgecoin,BridgeCoin,BCO
+mobilego,MobileGo,MGO
+metaverse,Metaverse ETP,ETP
+delphy,Delphy,DPY
+electrifyasia,Electrify.Asia,ELEC
+datum,Datum,DAT
+decent,DECENT,DCT
+trinity-network-credit,Trinity Network Credit,TNC
+adtoken,adToken,ADT
+electra,Electra,ECA
+coss,COSS,COSS
+blockmason,BlockMason Credit Protocol,BCPT
+casinocoin,CasinoCoin,CSC
+melon,Melon,MLN
+kickico,KickCoin,KICK
+soarcoin,Soarcoin,SOAR
+rock,Rock,RKT
+presearch,Presearch,PRE
+steem-dollars,Steem Dollars,SBD
+blox,Blox,CDT
+babb,BABB,BAX
+spectre-dividend,Spectre.ai Dividend Token,SXDT
+naga,NAGA,NGC
+unikoin-gold,Unikoin Gold,UKG
+universa,Universa,UTNP
+xtrabytes,XTRABYTES,XBY
+legolas-exchange,Legolas Exchange,LGO
+zeepin,Zeepin,ZPT
+tokenomy,Tokenomy,TEN
+guppy,Matchpool,GUP
+republic-protocol,Republic Protocol,REN
+cobinhood,Cobinhood,COB
+linkeye,LinkEye,LET
+bitcny,bitCNY,BITCNY
+decision-token,Decision Token,HST
+cofound-it,Cofound.it,CFI
+firstblood,FirstBlood,1ST
+shipchain,ShipChain,SHIP
+refereum,Refereum,RFR
+propy,Propy,PRO
+qunqun,QunQun,QUN
+yoyow,YOYOW,YOYOW
+alphacat,Alphacat,ACAT
+aeon,Aeon,AEON
+bankex,Bankex,BKX
+eccoin,ECC,ECC
+tokencard,TokenCard,TKN
+viberate,Viberate,VIB
+deeponion,DeepOnion,ONION
+cpchain,CPChain,CPC
+uptoken,UpToken,UP
+ravencoin,Ravencoin,RVN
+havven,Havven,HAV
+ormeus-coin,Ormeus Coin,ORME
+ugchain,ugChain,UGC
+shift,Shift,SHIFT
+lamden,Lamden,TAU
+humaniq,Humaniq,HMQ
+synereo,Synereo,AMP
+elastic,Elastic,XEL
+lunyr,Lunyr,LUN
+dmarket,DMarket,DMT
+trust,WeTrust,TRST
+potcoin,PotCoin,POT
+fortuna,Fortuna,FOTA
+stk,STK,STK
+mercury,Mercury,MER
+crown,Crown,CRW
+html-coin,HTMLCOIN,HTML
+educare,EDUCare,EKT
+everex,Everex,EVX
+zeusshield,Zeusshield,ZSC
+xinfin-network,XinFin Network,XDCE
+selfkey,Selfkey,KEY
+shield-xsh,SHIELD,XSH
+namecoin,Namecoin,NMC
+medical-chain,Medicalchain,MTN
+experience-points,Experience Points,XP
+switcheo,Switcheo,SWH
+swftcoin,SwftCoin,SWFTC
+unobtanium,Unobtanium,UNO
+phore,Phore,PHR
+monetha,Monetha,MTH
+trade-token,Trade Token,TIO
+banca,Banca,BANCA
+iocoin,I/O Coin,IOC
+bodhi,Bodhi,BOT
+dai,Dai,DAI
+pepe-cash,Pepe Cash,PEPECASH
+sentinel-chain,Sentinel Chain,SENC
+all-sports,All Sports,SOC
+safe-exchange-coin,Safe Exchange Coin,SAFEX
+zoin,Zoin,ZOI
+bean-cash,Bean Cash,BITB
+spacechain,SpaceChain,SPC
+yee,YEE,YEE
+stakenet,StakeNet,XSN
+dimecoin,Dimecoin,DIME
+suncontract,SunContract,SNC
+hempcoin,HempCoin,THC
+karma,Karma,KRM
+carvertical,carVertical,CV
+qbao,Qbao,QBT
+paccoin,PACcoin,$PAC
+diamond,Diamond,DMD
+aidoc,AI Doctor,AIDOC
+lympo,Lympo,LYM
+numeraire,Numeraire,NMR
+restart-energy-mwat,Restart Energy MWAT,MWAT
+blackcoin,BlackCoin,BLK
+energo,Energo,TSL
+blocktix,Blocktix,TIX
+grid,Grid+,GRID
+peerplays-ppy,Peerplays,PPY
+agrello-delta,Agrello,DLT
+moeda-loyalty-points,Moeda Loyalty Points,MDA
+leocoin,LEOcoin,LEO
+dadi,DADI,DADI
+hive-project,Hive Project,HVN
+gridcoin,GridCoin,GRC
+revolutionvr,RevolutionVR,RVR
+vericoin,VeriCoin,VRC
+omni,Omni,OMNI
+mothership,Mothership,MSP
+sibcoin,SIBCoin,SIB
+measurable-data-token,Measurable Data Token,MDT
+bloomtoken,Bloom,BLT
+attention-token-of-media,ATMChain,ATM
+indahash,indaHash,IDH
+covesting,Covesting,COV
+datawallet,Datawallet,DXT
+pascal-coin,Pascal Coin,PASC
+hydro-protocol,Hydro Protocol,HOT
+matryx,Matryx,MTX
+cappasity,Cappasity,CAPP
+luxcoin,LUXCoin,LUX
+aeron,Aeron,ARN
+oraclechain,OracleChain,OCT
+radium,Radium,RADS
+axpire,aXpire,AXP
+blockport,Blockport,BPT
+bee-token,Bee Token,BEE
+bitclave,BitClave,CAT
+aichain,AICHAIN,AIT
+latoken,LATOKEN,LA
+flash,Flash,FLASH
+hi-mutual-society,Hi Mutual Society,HMC
+bitcoin-atom,Bitcoin Atom,BCA
+e-dinar-coin,E-Dinar Coin,EDR
+uquid-coin,Uquid Coin,UQC
+swissborg,SwissBorg,CHSB
+devery,Devery,EVE
+lykke,Lykke,LKK
+oneroot-network,OneRoot Network,RNT
+expanse,Expanse,EXP
+posw-coin,PoSW Coin,POSW
+pareto-network,Pareto Network,PARETO
+primecoin,Primecoin,XPM
+oax,OAX,OAX
+nimiq,Nimiq Exchange Token,NET
+incent,Incent,INCNT
+sureremit,SureRemit,RMT
+banyan-network,Banyan Network,BBN
+tao,Tao,XTO
+aurora-dao,Aurora DAO,AURA
+prochain,ProChain,PRA
+ixledger,iXledger,IXT
+paragon,Paragon,PRG
+nanjcoin,NANJCOIN,NANJ
+monetaryunit,MonetaryUnit,MUE
+swarm-fund,Swarm,SWM
+whitecoin,WhiteCoin,XWC
+bismuth,Bismuth,BIS
+hacken,Hacken,HKN
+te-food,TE-FOOD,TFD
+colossusxt,ColossusXT,COLX
+tokenclub,TokenClub,TCT
+faircoin,FairCoin,FAIR
+prizm,PRIZM,PZM
+debitum-network,Debitum Network,DEB
+storiqa,Storiqa,STQ
+stox,Stox,STX
+polyswarm,PolySwarm,NCT
+florincoin,FlorinCoin,FLO
+rubycoin,Rubycoin,RBY
+lomocoin,LoMoCoin,LMC
+echolink,EchoLink,EKO
+solarcoin,SolarCoin,SLR
+bitdegree,BitDegree,BDG
+xpa,XPA,XPA
+zap,Zap,ZAP
+true-chain,True Chain,TRUE
+polybius,Polybius,PLBT
+icos,ICOS,ICOS
+myriad,Myriad,XMY
+blackmoon,Blackmoon,BMC
+hedge,Hedge,HDG
+databits,Databits,DTB
+swarm-city,Swarm City,SWT
+encrypgen,EncrypGen,DNA
+bitsend,BitSend,BSD
+linda,Linda,LINDA
+snovio,Snovio,SNOV
+olympus-labs,Olympus Labs,MOT
+etheroll,Etheroll,DICE
+block-array,Block Array,ARY
+cargox,CargoX,CXO
+rialto,Rialto,XRL
+energycoin,Energycoin,ENRG
+nolimitcoin,NoLimitCoin,NLC2
+patientory,Patientory,PTOY
+bitcoin-green,Bitcoin Green,BITG
+okcash,OKCash,OK
+pure,Pure,PURE
+everus,Everus,EVR
+cashaa,Cashaa,CAS
+flixxo,Flixxo,FLIXX
+nexium,Nexium,NXC
+interplanetary-broadcast-coin,Interplanetary Broadcast Coin,IPBC
+alqo,ALQO,ALQO
+pluton,Pluton,PLU
+clams,Clams,CLAM
+bounty0x,Bounty0x,BNTY
+canyacoin,CanYaCoin,CAN
+divi,Divi,DIVX
+domraider,DomRaider,DRT
+neoscoin,NeosCoin,NEOS
+musicoin,Musicoin,MUSIC
+boolberry,Boolberry,BBR
+golos,Golos,GOLOS
+hat-exchange,Hat.Exchange,HAT
+neumark,Neumark,NEU
+primas,Primas,PST
+bitusd,bitUSD,BITUSD
+rentberry,Rentberry,BERRY
+decent-bet,DecentBet,DBET
+foldingcoin,FoldingCoin,FLDC
+alis,ALIS,ALIS
+auroracoin,Auroracoin,AUR
+napoleonx,NaPoleonX,NPX
+waves-community-token,Waves Community Token,WCT
+newyorkcoin,NewYorkCoin,NYC
+lockchain,LockChain,LOC
+cvcoin,CVCoin,CVCOIN
+oxycoin,Oxycoin,OXY
+coinpoker,CoinPoker,CHP
+coinfi,CoinFi,COFI
+adbank,adbank,ADB
+lala-world,LALA World,LALA
+spectrecoin,Spectrecoin,XSPEC
+rise,Rise,RISE
+auctus,Auctus,AUC
+bitconnect,BitConnect,BCC
+mysterium,Mysterium,MYST
+transfercoin,TransferCoin,TX
+maecenas,Maecenas,ART
+remme,Remme,REM
+polis,Polis,POLIS
+dubaicoin-dbix,DubaiCoin,DBIX
+leadcoin,Leadcoin,LDC
+bitqy,bitqy,BQ
+commerceblock,CommerceBlock,CBT
+gobyte,GoByte,GBX
+gambit,Gambit,GAM
+worldcore,Worldcore,WRC
+dynamic,Dynamic,DYN
+mediccoin,MedicCoin,MEDIC
+hollywoodcoin,HollyWoodCoin,HWC
+dimcoin,DIMCOIN,DIM
+syndicate,Syndicate,SYNX
+profile-utility-token,Profile Utility Token,PUT
+open-trading-network,Open Trading Network,OTN
+insights-network,Insights Network,INSTAR
+elixir,Elixir,ELIX
+clearcoin,ClearCoin,CLR
+investfeed,InvestFeed,IFT
+payfair,Payfair,PFR
+atn,ATN,ATN
+target-coin,Target Coin,TGT
+chronobank,Chronobank,TIME
+guaranteed-ethurance-token-extra,Guaranteed Ethurance Token Extra,GETX
+quantum,Quantum,QAU
+fidentiax,FidentiaX,FDX
+airtoken,AirToken,AIR
+mooncoin,Mooncoin,MOON
+travelflex,Travelflex,TRF
+hubii-network,Hubii Network,HBT
+eboostcoin,eBoost,EBST
+bulwark,Bulwark,BWK
+the-champcoin,The ChampCoin,TCC
+stealthcoin,Stealthcoin,XST
+smartlands,Smartlands,SLT
+publica,Publica,PBL
+bitcrystals,Bitcrystals,BCY
+atlant,ATLANT,ATL
+sphere,Sphere,SPHR
+credo,Credo,CREDO
+bitshares-music,MUSE,MUSE
+zilla,Zilla,ZLA
+xaurum,Xaurum,XAUR
+circuits-of-value,Circuits of Value,COVAL
+ink-protocol,Ink Protocol,XNK
+rivetz,Rivetz,RVT
+insurepal,InsurePal,IPL
+mybit-token,MyBit Token,MYB
+true-usd,True USD,TUSD
+sequence,Sequence,SEQ
+toacoin,ToaCoin,TOA
+pinkcoin,PinkCoin,PINK
+curecoin,Curecoin,CURE
+aventus,Aventus,AVT
+gladius-token,Gladius Token,GLA
+geocoin,GeoCoin,GEO
+mintcoin,Mintcoin,MINT
+internet-of-people,Internet of People,IOP
+solaris,Solaris,XLR
+sportyco,SportyCo,SPF
+heat-ledger,HEAT,HEAT
+russian-mining-coin,Russian Miner Coin,RMC
+dether,Dether,DTH
+espers,Espers,ESP
+clearpoll,ClearPoll,POLL
+tokes,Tokes,TKS
+viuly,Viuly,VIU
+novacoin,Novacoin,NVC
+playkey,Playkey,PKT
+bitdice,BitDice,CSNO
+hellogold,HelloGold,HGT
+signal-token,Signal Token,SIG
+change,Change,CAG
+nvo,NVO,NVST
+leverj,Leverj,LEV
+obits,OBITS,OBITS
+breakout-stake,Breakout Stake,BRX
+b2bx,B2BX,B2B
+atbcoin,ATBCoin,ATB
+rebl,REBL,REBL
+dopecoin,DopeCoin,DOPE
+get-protocol,GET Protocol,GET
+dovu,Dovu,DOVU
+eroscoin,Eroscoin,ERO
+internxt,Internxt,INXT
+artbyte,ArtByte,ABY
+chips,CHIPS,CHIPS
+hoqu,HOQU,HQX
+gatcoin,Gatcoin,GAT
+aidcoin,AidCoin,AID
+ip-exchange,IP Exchange,IPSX
+spectre-utility,Spectre.ai Utility Token,SXUT
+ucash,U.CASH,UCASH
+pandacoin-pnd,Pandacoin,PND
+ethereum-blue,BLUE,BLUE
+exrnchain,EXRNchain,EXRN
+korecoin,Kore,KORE
+ethorse,Ethorse,HORSE
+pesetacoin,Pesetacoin,PTC
+blockcat,BlockCAT,CAT
+cryptoping,CryptoPing,PING
+memetic,Memetic / PepeCoin,MEME
+dotcoin,Dotcoin,DOT
+bitcoinz,BitcoinZ,BTCZ
+tracto,Tracto,TRCT
+goldcoin,GoldCoin,GLD
+idex-membership,IDEX Membership,IDXM
+apx,APX,APX
+voisecom,Voise,VOISE
+herocoin,HEROcoin,PLAY
+pirl,Pirl,PIRL
+universal-currency,Universal Currency,UNIT
+bitcoin-plus,Bitcoin Plus,XBC
+qwark,Qwark,QWARK
+opus,Opus,OPT
+locicoin,LOCIcoin,LOCI
+astro,Astro,ASTRO
+life,LIFE,LIFE
+exclusivecoin,ExclusiveCoin,EXCL
+spreadcoin,SpreadCoin,SPR
+aigang,Aigang,AIX
+europecoin,EuropeCoin,ERC
+autonio,Autonio,NIO
+trueflip,TrueFlip,TFL
+b3coin,B3Coin,KB3
+bonpay,Bonpay,BON
+sharex,ShareX,SEXC
+xenon,Xenon,XNN
+hexx,Hexx,HXX
+nubits,NuBits,USNBT
+belacoin,Bela,BELA
+veriumreserve,VeriumReserve,VRM
+gcn-coin,GCN Coin,GCN
+digipulse,DigiPulse,DGPT
+jet8,JET8,J8T
+vtorrent,vTorrent,VTR
+iungo,Iungo,ING
+education-ecosystem,Education Ecosystem,LEDU
+bitmark,Bitmark,BTM
+hush,Hush,HUSH
+hyperstake,HyperStake,HYP
+sprouts,Sprouts,SPRTS
+deviantcoin,DeviantCoin,DEV
+2give,2GIVE,2GIVE
+cannabiscoin,CannabisCoin,CANN
+reftoken,RefToken,REF
+goldmint,GoldMint,MNTP
+1world,1World,1WO
+nework,Nework,NKC
+social-send,Social Send,SEND
+neutron,Neutron,NTRN
+breakout,Breakout,BRK
+dao-casino,DAO.Casino,BET
+adshares,AdShares,ADST
+dcorp,DCORP,DRP
+experty,Experty,EXY
+monkey-project,Monkey Project,MONK
+sether,Sether,SETH
+monacocoin,Monoeci,XMCC
+maxcoin,MaxCoin,MAX
+sumokoin,Sumokoin,SUMO
+privatix,Privatix,PRIX
+1337coin,Elite,1337
+creditbit,Creditbit,CRB
+cryptopay,Cryptopay,CPAY
+riecoin,Riecoin,RIC
+global-currency-reserve,Global Currency Reserve,GCR
+blitzcash,Blitzcash,BLITZ
+copytrack,COPYTRACK,CPY
+primalbase,Primalbase Token,PBT
+piplcoin,PiplCoin,PIPL
+vezt,Vezt,VZT
+lampix,Lampix,PIX
+linx,Linx,LINX
+bunnycoin,BunnyCoin,BUN
+eztoken,EZToken,EZT
+russiacoin,RussiaCoin,RC
+luckchain,LuckChain,BASH
+zephyr,Zephyr,ZEPH
+uniform-fiscal-object,Uniform Fiscal Object,UFO
+denarius-dnr,Denarius,DNR
+dnotes,DNotes,NOTE
+bitcloud,Bitcloud,BTDX
+audiocoin,AudioCoin,ADC
+evergreencoin,EverGreenCoin,EGC
+bitswift,Bitswift,SWIFT
+fedoracoin,FedoraCoin,TIPS
+maverick-chain,Maverick Chain,MVC
+quark,Quark,QRK
+vslice,vSlice,VSL
+jiyo,Jiyo,JIYO
+sharpe-platform-token,Sharpe Platform Token,SHP
+biocoin,BioCoin,BIO
+verify,Verify,CRED
+terracoin,Terracoin,TRC
+buzzcoin,BuzzCoin,BUZZ
+stipend,Stipend,SPD
+mywish,MyWish,WISH
+real,REAL,REAL
+sharechain,Sharechain,SSS
+pylon-network,Pylon Network,PYLNT
+campuscoin,CampusCoin,CMPCO
+micromoney,MicroMoney,AMM
+goodomy,Goodomy,GOOD
+ace,Ace,ACE
+rupaya,Rupaya,RUPX
+huntercoin,HunterCoin,HUC
+eventchain,EventChain,EVC
+graft,Graft,GRFT
+sociall,Sociall,SCL
+e-gulden,e-Gulden,EFL
+masternodecoin,Masternodecoin,MTNC
+trezarcoin,TrezarCoin,TZC
+trustplus,TrustPlus,TRUST
+zeitcoin,Zeitcoin,ZEIT
+hirematch,HireMatch,HIRE
+startercoin,StarterCoin,STAC
+xgox,XGOX,XGOX
+karbo,Karbo,KRB
+obsidian,Obsidian,ODN
+zrcoin,ZrCoin,ZRC
+crave,Crave,CRAVE
+qvolta,Qvolta,QVT
+farad,Farad,FRD
+mercury-protocol,Mercury Protocol,GMT
+equitrader,EquiTrader,EQT
+putincoin,PutinCoin,PUT
+zero,Zero,ZER
+bezop,Bezop,BEZ
+sexcoin,Sexcoin,SXC
+chaincoin,ChainCoin,CHC
+upfiring,Upfiring,UFR
+tokenbox,Tokenbox,TBX
+magi,Magi,XMG
+ergo,Ergo,EFYT
+force,FORCE,FOR
+sense,Sense,SENSE
+vsync-vsx,Vsync,VSX
+gpu-coin,GPU Coin,GPU
+ebtcnew,eBitcoin,EBTC
+magnet,Magnet,MAG
+altcoin-alt,Altcoin,ALT
+capricoin,Capricoin,CPC
+teslacoin,TeslaCoin,TES
+ellaism,Ellaism,ELLA
+litedoge,LiteDoge,LDOGE
+bitzeny,Bitzeny,ZNY
+creativecoin,Creativecoin,CREA
+rupee,Rupee,RUP
+noblecoin,NobleCoin,NOBL
+kzcash,Kzcash,KZC
+speed-mining-service,Speed Mining Service,SMS
+global-cryptocurrency,Global Cryptocurrency,GCC
+innova,Innova,INN
+wandx,WandX,WAND
+intensecoin,IntenseCoin,ITNS
+inpay,InPay,INPAY
+biblepay,BiblePay,BBP
+chronologic,Chronologic,DAY
+indorse-token,Indorse Token,IND
+argentum,Argentum,ARG
+blocklancer,Blocklancer,LNC
+sagacoin,SagaCoin,SAGA
+flik,FLiK,FLIK
+martexcoin,MarteXcoin,MXT
+bowhead,Bowhead,AHT
+unitus,Unitus,UIS
+fundyourselfnow,FundYourselfNow,FYN
+ongsocial,onG.social,ONG
+footy-cash,Footy Cash,XFT
+yocoin,Yocoin,YOC
+808coin,808Coin,808
+orbitcoin,Orbitcoin,ORB
+aurumcoin,AurumCoin,AU
+condensate,Condensate,RAIN
+kobocoin,Kobocoin,KOBO
+straks,STRAKS,STAK
+unbreakablecoin,UnbreakableCoin,UNB
+firstcoin,FirstCoin,FRST
+digitalprice,DigitalPrice,DP
+bluecoin,BlueCoin,BLU
+coinlancer,Coinlancer,CL
+skincoin,SkinCoin,SKIN
+ethersportz,EtherSportz,ESZ
+ethbits,Ethbits,ETBS
+canada-ecoin,Canada eCoin,CDN
+ganjacoin,GanjaCoin,MRJA
+oceanlab,Oceanlab,OCL
+anoncoin,Anoncoin,ANC
+ignition,Ignition,IC
+worldcoin,WorldCoin,WDC
+bitwhite,BitWhite,BTW
+mcap,MCAP,MCAP
+tidex-token,Tidex Token,TDX
+jesus-coin,Jesus Coin,JC
+adzcoin,Adzcoin,ADZ
+moin,Moin,MOIN
+blitzpredict,BlitzPredict,XBP
+synergy,Synergy,SNRG
+eltcoin,ELTCOIN,ELTCOIN
+latiumx,LatiumX,LATX
+vivo,VIVO,VIVO
+miners-reward-token,Miners' Reward Token,MRT
+arcticcoin,ArcticCoin,ARC
+interstellar-holdings,Interstellar Holdings,HOLD
+legends-room,Legends Room,LGD
+42-coin,42-coin,42
+deuscoin,DeusCoin,DEUS
+unify,Unify,UNIFY
+emphy,Emphy,EPY
+bytecent,Bytecent,BYC
+authorship,Authorship,ATS
+student-coin,bitJob,STU
+machinecoin,Machinecoin,MAC
+platinumbar,PlatinumBAR,XPTX
+mazacoin,MAZA,MZC
+procurrency,ProCurrency,PROC
+neverdie,NEVERDIE,NDC
+woodcoin,Woodcoin,LOG
+fujicoin,FujiCoin,FJC
+numus,Numus,NMS
+renos,Renos,RNS
+flappycoin,FlappyCoin,FLAP
+bata,Bata,BTA
+monster-byte,Monster Byte,MBI
+fucktoken,FuckToken,FUCK
+ethereumcash,Ethereum Cash,ECASH
+skeincoin,Skeincoin,SKC
+commodity-ad-network,Commodity Ad Network,CDX
+growers-international,Growers International,GRWI
+crowdcoin,CrowdCoin,CRC
+kolion,Kolion,KLN
+peepcoin,PeepCoin,PCN
+petrodollar,PetroDollar,XPD
+netko,Netko,NETKO
+zetacoin,Zetacoin,ZET
+dinastycoin,Dinastycoin,DCY
+draftcoin,DraftCoin,DFT
+nushares,NuShares,NSR
+regalcoin,Regalcoin,REC
+magiccoin,MagicCoin,MAGE
+centra,Centra,CTR
+deutsche-emark,Deutsche eMark,DEM
+fantomcoin,Fantomcoin,FCN
+guncoin,Guncoin,GUN
+dfscoin,DFSCoin,DFS
+bit20,Bit20,BTWTY
+shekel,Shekel,JEW
+pluscoin,PlusCoin,PLC
+wild-crypto,Wild Crypto,WILD
+accelerator-network,Accelerator Network,ACC
+happycoin,Happycoin,HPC
+sovereign-hero,Sovereign Hero,HERO
+aquariuscoin,AquariusCoin,ARCO
+qbic,Qbic,QBIC
+octoin-coin,Octoin Coin,OCC
+startcoin,Startcoin,START
+centurion,Centurion,CNT
+photon,Photon,PHO
+cream,Cream,CRM
+britcoin,BritCoin,BRIT
+equal,Equal,EQL
+cryptocarbon,CryptoCarbon,CCRB
+insanecoin-insn,InsaneCoin,INSN
+suretly,Suretly,SUR
+arbitragect,ArbitrageCT,ARCT
+crystal-clear,Crystal Clear ,CCT
+bitair,Bitair,BTCA
+bitradio,Bitradio,BRO
+tittiecoin,TittieCoin,TTC
+sugar-exchange,Sugar Exchange,SGR
+bitgem,Bitgem,BTG
+minereum,Minereum,MNE
+bitbar,BitBar,BTB
+digitalcoin,Digitalcoin,DGC
+erc20,ERC20,ERC20
+bitcoin-scrypt,Bitcoin Scrypt,BTCS
+soma,Soma,SCT
+billionaire-token,Billionaire Token,XBL
+kubera-coin,Kubera Coin,KBR
+ethbet,EthBet,EBET
+iethereum,iEthereum,IETH
+kurrent,Kurrent,KURT
+bitbtc,bitBTC,BITBTC
+titcoin,Titcoin,TIT
+adcoin,AdCoin,ACC
+elementrem,Elementrem,ELE
+tigereum,Tigereum,TIG
+copico,Copico,XCPO
+litecoin-plus,Litecoin Plus,LCP
+garlicoin,Garlicoin,GRLC
+trumpcoin,TrumpCoin,TRUMP
+macron,MACRON,MCRN
+trollcoin,Trollcoin,TROLL
+dashcoin,Dashcoin,DSH
+purevidz,PureVidz,VIDZ
+phoenixcoin,Phoenixcoin,PXC
+ebitcoin-cash,eBitcoinCash,EBCH
+mojocoin,MojoCoin,MOJO
+bitdeal,Bitdeal,BDL
+guess,Peerguess,GUESS
+intelligent-trading-foundation,Intelligent Trading Foundation,ITT
+manna,Manna,MANNA
+steneum-coin,Steneum Coin,STN
+rimbit,Rimbit,RBT
+bitsum,Bitsum,BSM
+mao-zedong,Mao Zedong,MAO
+leviarcoin,LeviarCoin,XLC
+cryptojacks,Cryptojacks,CJ
+droxne,DROXNE,DRXNE
+senderon,Senderon,SDRN
+tokugawa,Tokugawa,TOK
+irishcoin,IrishCoin,IRL
+chancoin,ChanCoin,CHAN
+elcoin-el,Elcoin,EL
+tekcoin,TEKcoin,TEK
+aerium,Aerium,AERM
+pakcoin,Pakcoin,PAK
+daxxcoin,DaxxCoin,DAXX
+high-voltage,High Voltage,HVCO
+bitcoin-red,Bitcoin Red,BTCRED
+digital-developers-fund,DigitalDevelopersFund,DDF
+leacoin,LeaCoin,LEA
+dix-asset,Dix Asset,DIX
+roulettetoken,RouletteToken,RLT
+blakecoin,Blakecoin,BLC
+galactrum,Galactrum,ORE
+whalecoin,WhaleCoin,WHL
+evil-coin,Evil Coin,EVIL
+postcoin,PostCoin,POST
+onix,Onix,ONX
+coinonatx,CoinonatX,XCXT
+nevacoin,NevaCoin,NEVA
+securecoin,SecureCoin,SRC
+mineum,Mineum,MNM
+ethereum-gold,Ethereum Gold,ETG
+bolivarcoin,Bolivarcoin,BOLI
+tokyo,TOKYO,TOKC
+octanox,Octanox,OTX
+revolvercoin,RevolverCoin,XRE
+bitgold,bitGold,BITGOLD
+zcash-gold,Zlancer,ZCG
+cartaxi-token,CarTaxi Token,CTX
+neuro,Neuro,NRO
+votecoin,VoteCoin,VOT
+influxcoin,Influxcoin,INFX
+bitcoinfast,Bitcoin Fast,BCF
+speedcash,Speedcash,SCS
+pascal-lite,Pascal Lite,PASL
+ronpaulcoin,RonPaulCoin,RPC
+impact,Impact,IMX
+fujinto,Fujinto,NTO
+op-coin,OP Coin,OPC
+atomic-coin,Atomic Coin,ATOM
+digital-money-bits,Digital Money Bits,DMB
+digital-rupees,Digital Rupees,DRS
+golfcoin,Golfcoin,GOLF
+digicube,DigiCube,CUBE
+octocoin,OctoCoin,888
+grimcoin,Grimcoin,GRIM
+coin2-1,Coin2.1,C2
+virta-unique-coin,Virta Unique Coin,VUC
+redcoin,RedCoin,RED
+global-tour-coin,Global Tour Coin,GTC
+stronghands,StrongHands,SHND
+briacoin,BriaCoin,BRIA
+phantomx,Phantomx,PNX
+globaltoken,GlobalToken,GLT
+cryptoescudo,CryptoEscudo,CESC
+reecoin,ReeCoin,REE
+ethereum-dark,Ethereum Dark,ETHD
+globalboost-y,GlobalBoost-Y,BSTY
+jin-coin,Jin Coin,JIN
+trident,Trident Group,TRDT
+newbium,Newbium,NEWB
+litebitcoin,LiteBitcoin,LBTC
+biteur,bitEUR,BITEUR
+agrolifecoin,AgrolifeCoin,AGLC
+kayicoin,Kayicoin,KAYI
+hicoin,HiCoin,XHI
+vaperscoin,VapersCoin,VPRC
+starcash-network,StarCash Network,STARS
+desire,Desire,DSR
+eaglecoin,EagleCoin,EAGLE
+acoin,Acoin,ACOIN
+comet,Comet,CMT
+bitquark,BitQuark,BTQ
+chronos,Chronos,CRX
+x-coin,X-Coin,XCO
+homeblockcoin,HomeBlockCoin,HBC
+roofs,Roofs,ROOFS
+solarflarecoin,Solarflarecoin,SFC
+zozocoin,ZoZoCoin,ZZC
+asiadigicoin,Asiadigicoin,ADCN
+kronecoin,Kronecoin,KRONE
+songcoin,SongCoin,SONG
+interzone,Interzone,ITZ
+madcoin,Madcoin,MDC
+master-swiscoin,Master Swiscoin,MSCN
+geertcoin,GeertCoin,GEERT
+zetamicron,ZetaMicron,ZMC
+iconic,Iconic,ICON
+litecoin-ultra,LiteCoin Ultra,LTCU
+royal-kingdom-coin,Royal Kingdom Coin,RKC
+veros,Veros,VRS

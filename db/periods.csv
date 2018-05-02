@@ -1,0 +1,16 @@
+﻿period_name,period_seconds
+raw,0
+1 second,1
+1 minute,60
+5 minutes,300
+15 minutes,900
+30 minutes,1800
+1 hour,3600
+2 hours,7200
+4 hours,14400
+8 hours,28800
+12 hours,43200
+24 hours,86400
+1 week,604800
+2 weeks,1209600
+4 weeks,2419200

@@ -11,7 +11,13 @@ from db.createdb import CreateDB
 c = lc()
 settings = c.get_config()
 print('Mode: ', settings['STATE']['mode'])
-db = CreateDB()
+db_name='cryptotradingdb.db' 
+sql_file_name='cryptotradingdb.sql'
+csv_table_map_filename='base_data_file_to_table_map.csv'
+db_location='db/' 
+db_files_location='db/'
+db = CreateDB(db_name, db_location, db_files_location, sql_file_name, csv_table_map_filename, )
 db.create_new_db()
+
 
 
